@@ -1,6 +1,7 @@
 
 <div align='center'><h3>Welcome to BonxoUI Installer</h3> </div>  
 <p>Here you will find the setup.exe to install Bonxo the virtual Pal to your computer!</p> 
+
 ---  
 
  - Materials used in project:
