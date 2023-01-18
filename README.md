@@ -36,14 +36,12 @@
   - "move to top left"
   - "move to bottom left"
   - "move to bottom right"
-  - "stop listening"
   - "move to random"
   - "move cursor up"
   - "move cursor down"
   - "move cursor left"
   - "move cursor right"
   - stop listening
-  ---
   ##### Special
   - "run [your own url mapped key here]"
 ---
