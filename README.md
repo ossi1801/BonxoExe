@@ -26,6 +26,7 @@
   - Talk to bonxo
   #### Voice activated commands
    - Requires en-US language to be installed to your pc  [support.microsoft.com](https://support.microsoft.com/en-us/windows/install-a-language-for-windows-ccd853d3-9ecd-7da7-9ef0-72b4a055410a)
+   - Right click Bonxo to stop bonxo application from using microphone by pressing Mute/Unmute
   ##### Start voice with:
   - hey/hi/hello bonxo  
   #####  Commands:
