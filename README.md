@@ -49,6 +49,9 @@
   - "open control panel"
   - "close control panel" 
   ##### Special
+  - "update voice list" or "update my speech" (Updates mapped keys, URL, and active windows to bonxo speech rec library)
+  - "screenshot [active programs]"
+  - "move to [active programs]"
   - "run [your own url mapped key here]"
 
 
