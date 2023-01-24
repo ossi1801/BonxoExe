@@ -48,6 +48,14 @@
 
   - "open control panel"
   - "close control panel" 
+  #### Media controls
+  - "enable music controls"
+  - "volume up"
+  - "volume down"
+  - "next music"
+  - "previous music"
+  - "pause music"
+  - "play music"
   ##### Special
   - "update voice list" or "update my speech" (Updates mapped keys, URL, and active windows to bonxo speech rec library)
   - "screenshot [active programs]"
